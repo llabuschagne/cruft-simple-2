@@ -1,11 +1,12 @@
 {
   "template": "https://github.com/llabuschagne/cookiecutter-simple",
-  "commit": "20a1a15ed6e50c5211bd7513aee437d3ffef7664",
+  "commit": "e274c36c575dab746153b189c4482370cdc64699",
   "checkout": null,
   "context": {
     "cookiecutter": {
       "directory_name": "simple-2",
       "file_name": "Howdy",
+      "file_name_1": "Howdier",
       "greeting_recipient": "Jane",
       "_template": "https://github.com/llabuschagne/cookiecutter-simple"
     }
